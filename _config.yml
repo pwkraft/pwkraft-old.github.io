@@ -1,18 +1,19 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Patrick Kraft | Ph.D. Candidate in the Department of Political Science at Stony Brook University
+email: patrick.kraft@stonybrook.edu
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
-description: One sentence introducing yourself or what you do
+description: Patrick W. Kraft
+affiliation: Stony Brook University
 
 # Social icons
-facebook: username
-linkedin: username
-github: username
-deviantart: username
-codepen: username
+github: pwkraft
+linkedin: patrick-kraft-b52319101
+#facebook: username
+#deviantart: username
+#codepen: username
 
 footer: © Taken theme
 

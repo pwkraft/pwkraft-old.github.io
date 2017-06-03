@@ -1,46 +1,31 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+---
+layout: default
+---
 
-  <!-- Basic Page Needs
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <meta charset="utf-8">
-  <title>Patrick Kraft | Ph.D. Candidate in the Department of Political Science at Stony Brook University</title>
-  <meta name="description" content="">
-  <meta name="author" content="">
 
-  <!-- Mobile Specific Metas
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+ <div class="post-container">
 
-  <!-- FONT
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+  <h2 class="post-title">Blog</h2>
 
-  <!-- CSS
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/skeleton.css">
+  <hr>
 
-  <!-- Favicon
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="icon" type="image/png" href="images/pk.png">
+  {% for post in site.posts %}
+    <div class ="post-preview">
+      <span class="post-title">
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+          {{ post.title }}
+        </a>
+      </span>
 
-</head>
-<body>
+      <span class="post-time">
+        <p>{{ post.date | date: "%b %-d, %Y" }}</p>
+      </span>
 
-  <!-- Primary Page Layout
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <div class="container">
-    <div class="row">
-      <div class="one-half column" style="margin-top: 25%">
-        <h4>Basic Page</h4>
-        <p>This index.html page is a placeholder with the CSS, font and favicon. It's just waiting for you to add some content! If you need some help hit up the <a href="http://www.getskeleton.com">Skeleton documentation</a>.</p>
-      </div>
+
     </div>
-  </div>
 
-<!-- End Document
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-</body>
-</html>
+    {% endfor %}
+
+
+
+</div>

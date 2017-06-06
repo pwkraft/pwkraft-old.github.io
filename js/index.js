@@ -49,3 +49,12 @@
 	});
 
 })();
+
+function showAbstract(abstractID) {
+    var x = document.getElementById(abstractID);
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}

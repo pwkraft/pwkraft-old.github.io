@@ -1,12 +1,12 @@
 # Site settings
-title: Patrick Kraft | Ph.D. Candidate in the Department of Political Science at Stony Brook University
+title: Patrick W. Kraft | Ph.D. Candidate in the Department of Political Science at Stony Brook University
 email: patrick.kraft@stonybrook.edu
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
 description: Patrick W. Kraft
-affiliation: Stony Brook University
+affiliation: Deptartment of Political Science  Stony Brook University
 
 # Social icons
 github: pwkraft
@@ -16,7 +16,7 @@ researchgate: Patrick_Kraft2
 #deviantart: username
 #codepen: username
 
-footer: © Taken theme
+footer: Created based on Taken theme. © 2017 Patrick Kraft
 
 # Build settings
 markdown: kramdown

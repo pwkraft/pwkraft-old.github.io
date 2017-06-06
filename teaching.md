@@ -4,8 +4,25 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Taken is a two column minimalist Jekyll theme.
+# Instructor
 
-Taken is based on [chapter tumblr theme.](http://theme-chapter.tumblr.com/)
+**POL346 - Political Psychology** \\
+Undergraduate lecture (online), Stony Brook University, Winter 2017 \\
+[Syllabus](../resources/POL346_2017.pdf), [Evaluations](../resources/POL346_2017_Evals.pdf)
 
-You can fork taken from [here.](https://github.com/vfalanis/taken)
+**POL102 - Introduction to American Government** \\
+Undergraduate lecture, Stony Brook University, Summer 2016 \\
+[Syllabus](../resources/POL102_2016.pdf), [Evaluations](../resources/POL102_2016_Evals.pdf)
+
+**Math Refresher for Political Science PhD Students** \\
+PhD seminar, Stony Brook University, Fall 2015, 2016 \\
+[Syllabus](../resources/mathcamp_syllabus.pdf)
+
+
+# Teaching Assistant
+
+**POL 603 - Data Analysis II: Linear Regression** (Prof. Michael Peress) \\
+PhD course, recitation session, Stony Brook University, Spring 2015, 2016, 2017
+
+**POL 602 - Data Analysis I: Introduction to Probability Theory** (Prof. Yanna Krupnikov) \\
+PhD course, recitation session, Stony Brook University, Fall 2014, 2015, 2016

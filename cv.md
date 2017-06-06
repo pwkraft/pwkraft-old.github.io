@@ -4,8 +4,13 @@ title: CV
 permalink: /cv/
 ---
 
-Taken is a two column minimalist Jekyll theme.
+<div id="pdf">
+  <object width="850" height="700" type="application/pdf" data="../resources/CV_Kraft.pdf?#toolbar=0&navpanes=0" id="pdf_content">
+    <p>You can access my full CV <a href="../resources/CV_Kraft.pdf">here</a> (pdf).</p>
+  </object>
+</div>
 
-Taken is based on [chapter tumblr theme.](http://theme-chapter.tumblr.com/)
+<!--
+<embed src="../resources/CV_Kraft.pdf" width="750" height="375" type='application/pdf'>
+-->
 
-You can fork taken from [here.](https://github.com/vfalanis/taken)

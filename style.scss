@@ -62,12 +62,12 @@ label[data-function*='swipe'] {
   z-index: 1;
   display: block;
   text-align: center;
-  transform: translate3d(0,0,0);
+  transform: translate3d(180px,0,0);
   transition: transform .3s;
 }
 
 input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
-  transform: translate3d(260px,0,0);
+  transform: translate3d(0px,0,0);
 }
 
 #social-icons
@@ -97,7 +97,7 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
 .content {
   flex: 1;
   padding: 80px 30px;
-  transform: translate3d(0,0,0);
+  transform: translate3d(180px,0,0);
   transition: transform .3s;
 
   font-family: "Roboto Condensed", Arial, sans-serif;
@@ -183,11 +183,11 @@ input[data-function*='swipe']:checked ~ label[data-function*='swipe'] {
 }
 
 input[data-function*='swipe']:checked ~ .content {
-  transform: translate3d(180px,0px,0px);
+  transform: translate3d(0px,0px,0px);
 }
 
 input[data-function*='swipe']:checked ~ .sidebar {
-  transform: translate3d(0px,0px,0px);
+  transform: translate3d(-180px,0px,0px);
   .menu {
     li {
       width: 100%;
@@ -196,7 +196,7 @@ input[data-function*='swipe']:checked ~ .sidebar {
 }
 
 .sidebar {
-  transform: translate3d(-180px,0px,0px);
+  transform: translate3d(0px,0px,0px);
   position: absolute;
   width: 180px;
   color: #eee;

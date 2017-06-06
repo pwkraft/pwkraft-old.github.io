@@ -15,4 +15,10 @@
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="icon" type="image/png" href="../images/pk.png">
+
+  <!-- Google analytics
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include analytics.html %}
+  {% endif %}
 </head>

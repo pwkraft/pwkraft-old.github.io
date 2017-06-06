@@ -16,6 +16,9 @@ researchgate: Patrick_Kraft2
 #deviantart: username
 #codepen: username
 
+# Google analytics tracking code:
+google_analytics: UA-100572491-1
+
 footer: Created based on Taken theme. © 2017 Patrick Kraft
 
 # Build settings

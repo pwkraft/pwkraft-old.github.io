@@ -8,15 +8,15 @@ permalink: /teaching/
 
 **POL346 - Political Psychology** \\
 Undergraduate lecture (online), Stony Brook University, Winter 2017 \\
-[Syllabus](../resources/POL346_2017.pdf), [Evaluations](../resources/POL346_2017_Evals.pdf)
+[Syllabus](../resources/syllabi/POL346_2017.pdf), [Evaluations](../resources/syllabi/POL346_2017_Evals.pdf)
 
 **POL102 - Introduction to American Government** \\
 Undergraduate lecture, Stony Brook University, Summer 2016 \\
-[Syllabus](../resources/POL102_2016.pdf), [Evaluations](../resources/POL102_2016_Evals.pdf)
+[Syllabus](../resources/syllabi/POL102_2016.pdf), [Evaluations](../resources/syllabi/POL102_2016_Evals.pdf)
 
 **Math Refresher for Political Science PhD Students** \\
 PhD seminar, Stony Brook University, Fall 2015, 2016 \\
-[Syllabus](../resources/mathcamp_syllabus.pdf)
+[Syllabus](../resources/syllabi/mathcamp_syllabus.pdf)
 
 
 # Teaching Assistant

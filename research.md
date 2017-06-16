@@ -78,5 +78,5 @@ with John B. Ryan, Yanna Krupnikov, and Kerri Milita. _Data collection and analy
 # Software
 
 **ArfimaMLM: Arfima-MLM Estimation For Repeated Cross-Sectional Data** \\
-R package version 1.3. Links: [Cran](https://CRAN.R-project.org/package=ArfimaMLM), [Github](http://github.com/pwkraft/ArfimaMLM).
+R package version 1.3. ([CRAN](https://CRAN.R-project.org/package=ArfimaMLM), [Github](http://github.com/pwkraft/ArfimaMLM), [Documentation](../resources/articles/ArfimaMLM-documentation.pdf)).
 

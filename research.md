@@ -21,7 +21,8 @@ with Reuben Kline, Alexa Bankert, and Lindsey Levitan. Forthcoming at _Political
 **The General Error Correction Model in Practice** \\
 with Matthew Lebo. 2017. _Research and Politics_. 4(2): 2053168017713059.
 <button class="link" onclick="showAbstract('gecm')">(abstract</button>
-, <a href="../resources/articles/lebo2017general_accepted.pdf">pdf</a>)
+, <a href="../resources/articles/lebo2017general_accepted.pdf">pdf</a>
+, <a href="http://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/D1TW2Y">dataverse</a>)
 <div id="gecm" style="display:none">
 <blockquote>
 	Enns et al. respond to recent work by Grant and Lebo and Lebo and Grant that raises a number of concerns with political scientists’ use of the general error correction model (GECM). While agreeing with the particular rules one should apply when using unit root data in the GECM, Enns et al. still advocate procedures that will lead researchers astray. Most especially, they fail to recognize the difficulty in interpreting the GECM's "error correction coefficient." Without being certain of the univariate properties of one's data it is extremely difficult (or perhaps impossible) to know whether or not cointegration exists and error correction is occurring. We demonstrate the crucial differences for the GECM between having evidence of a unit root (from Dickey-Fuller tests) versus actually having a unit root. Looking at simulations and two applied examples we show how overblown findings of error correction await the uncareful researcher.

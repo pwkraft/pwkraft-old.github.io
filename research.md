@@ -61,7 +61,7 @@ _Working Paper of the Mannheim Center for European Social Research_: 148. <a hre
 # Selected Work in Progress
 
 **Measuring Morality in Political Attitude Expression** \\
-_Under review_.
+Invitation to Revise & Resubmit at _Journal of Politics_.
 
 **When do Voters Take into Account Post-Election Bargaining Processes?** \\
 with Lukas St&#246;tzer. _Under review_.
@@ -69,7 +69,7 @@ with Lukas St&#246;tzer. _Under review_.
 **The Perils of Protest: Race, Civilian Complaint, and Police Retaliation** \\
 with Benjamin J. Newman. _Under review_.
 
-**Women Also Know Stuff: Challenging the Gender Gap in Political Sophistication.** \\
+**Women Also Know Stuff: Challenging the Gender Gap in Political Sophistication** \\
 _Draft preparation_.
 
 **The Modern Gatekeepers in Mass Media** \\

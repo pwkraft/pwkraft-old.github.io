@@ -79,7 +79,7 @@ with Lukas St&#246;tzer. _Under review_.
 **The Perils of Protest: Race, Civilian Complaint, and Police Retaliation** \\
 with Benjamin J. Newman. _Under review_.
 
-**Women Also Know Stuff: Challenging the Gender Gap in Political Sophistication** \\
+**Looking for Answers: A Naive Approach for Measuring Political Sophistication** \\
 _Draft preparation_.
 
 **The Modern Gatekeepers in Mass Media** \\

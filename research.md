@@ -65,6 +65,10 @@ ed. Silke I. Keil / S. Isabell Thaidigsmann. Wiesbaden: Springer VS: 117&#8212;1
 _Working Paper of the Mannheim Center for European Social Research_: 148. <a href="http://www.mzes.uni-mannheim.de/publications/wp/wp-148.pdf">(pdf)</a>
 
 
+# Software
+
+**ArfimaMLM: Arfima-MLM Estimation For Repeated Cross-Sectional Data** \\
+R package version 1.3. ([CRAN](https://CRAN.R-project.org/package=ArfimaMLM), [Github](http://github.com/pwkraft/ArfimaMLM), [Documentation](../resources/articles/ArfimaMLM-documentation.pdf)).
 
 
 # Selected Work in Progress
@@ -82,8 +86,5 @@ _Draft preparation_.
 with John B. Ryan, Yanna Krupnikov, and Kerri Milita. _Data collection and analyses_.
 
 
-# Software
 
-**ArfimaMLM: Arfima-MLM Estimation For Repeated Cross-Sectional Data** \\
-R package version 1.3. ([CRAN](https://CRAN.R-project.org/package=ArfimaMLM), [Github](http://github.com/pwkraft/ArfimaMLM), [Documentation](../resources/articles/ArfimaMLM-documentation.pdf)).
 

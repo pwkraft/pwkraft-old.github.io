@@ -6,6 +6,15 @@ permalink: /research/
 
 # Publications
 
+**Measuring Morality in Political Attitude Expression** \\
+Conditionally accepted at _Journal of Politics_.
+<button class="link" onclick="showAbstract('personality')">(abstract</button>)
+<div id="personality" style="display:none">
+<blockquote>
+	This study explores whether and how individuals evoke moral considerations when discussing their political beliefs. Analyzing open-ended responses in the 2012 American National Election Study (ANES) using a previously validated dictionary, I find systematic ideological differences in moral reasoning - even when respondents are not explicitly asked about morality. The study proceeds to show that the reliance on moral considerations in attitude expression is amplified by the moral content of individual media environments.
+</blockquote>
+</div>
+
 **Personality and Prosocial Behavior: A Multilevel Meta-Analysis** \\
 with Reuben Kline, Alexa Bankert, and Lindsey Levitan. Forthcoming at _Political Science Research & Methods_.
 <button class="link" onclick="showAbstract('personality')">(abstract</button>
@@ -59,9 +68,6 @@ _Working Paper of the Mannheim Center for European Social Research_: 148. <a hre
 
 
 # Selected Work in Progress
-
-**Measuring Morality in Political Attitude Expression** \\
-Invitation to Revise & Resubmit at _Journal of Politics_.
 
 **When do Voters Take into Account Post-Election Bargaining Processes?** \\
 with Lukas St&#246;tzer. _Under review_.

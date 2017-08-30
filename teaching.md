@@ -15,7 +15,7 @@ Undergraduate lecture, Stony Brook University, Summer 2016 \\
 [Syllabus](../resources/syllabi/POL102_2016.pdf), [Evaluations](../resources/syllabi/POL102_2016_Evals.pdf)
 
 **Math Refresher for Political Science PhD Students** \\
-PhD seminar, Stony Brook University, Fall 2015, 2016 \\
+PhD seminar, Stony Brook University, Fall 2015, 2016, 2017 \\
 [Syllabus](../resources/syllabi/mathcamp_syllabus.pdf)
 
 
@@ -25,4 +25,4 @@ PhD seminar, Stony Brook University, Fall 2015, 2016 \\
 PhD course, recitation session, Stony Brook University, Spring 2015, 2016, 2017
 
 **POL 602 - Data Analysis I: Introduction to Probability Theory** (Prof. Yanna Krupnikov) \\
-PhD course, recitation session, Stony Brook University, Fall 2014, 2015, 2016
+PhD course, recitation session, Stony Brook University, Fall 2014, 2015, 2016, 2017

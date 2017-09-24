@@ -4,6 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
+
 # Instructor
 
 **POL346 - Political Psychology** \\
@@ -26,3 +27,9 @@ PhD course, recitation session, Stony Brook University, Spring 2015, 2016, 2017
 
 **POL 602 - Data Analysis I: Introduction to Probability Theory** (Prof. Yanna Krupnikov) \\
 PhD course, recitation session, Stony Brook University, Fall 2014, 2015, 2016, 2017
+
+
+# Interests
+
+_Substantive_: American politics, public opinion and elections, ideology, media and politics\\
+_Methods_: Research methods, probability theory, linear models, maximum-likelihood estimation, measurement, causal inference, text analysis, Bayesian statistics

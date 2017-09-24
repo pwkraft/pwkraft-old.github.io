@@ -4,12 +4,24 @@ title: Research
 permalink: /research/
 ---
 
+# Dissertation
+
+**Tell Me What You Think: Leveraging Open-Ended Measures in Political Psychology**\\
+_Committee_: Jennifer Jerit (chair), Stanley Feldman, Yanna Krupnikov
+<button class="link" onclick="showAbstract('diss')">(abstract</button>)
+<div id="diss" style="display:none">
+<blockquote>
+	Verbally expressing your attitudes toward an issue is one of the most ubiquitous ways to engage in politics. Yet little research directly studies this basic feature of day-to-day political life. Building on recent advances in quantitative text analysis methods, I develop new measures to systematically examine verbatim political attitude expression. By analyzing how citizens describe their beliefs and discuss them with peers, my research advances previous theoretical insights on the role of morality in political attitudes, the nature of political sophistication, and the mechanisms underlying attitude change in political discussions.
+</blockquote>
+</div>
+
+
 # Publications
 
 **Measuring Morality in Political Attitude Expression** \\
 Conditionally accepted at _Journal of Politics_.
-<button class="link" onclick="showAbstract('personality')">(abstract</button>)
-<div id="personality" style="display:none">
+<button class="link" onclick="showAbstract('morality')">(abstract</button>)
+<div id="morality" style="display:none">
 <blockquote>
 	This study explores whether and how individuals evoke moral considerations when discussing their political beliefs. Analyzing open-ended responses in the 2012 American National Election Study (ANES) using a previously validated dictionary, I find systematic ideological differences in moral reasoning - even when respondents are not explicitly asked about morality. The study proceeds to show that the reliance on moral considerations in attitude expression is amplified by the moral content of individual media environments.
 </blockquote>

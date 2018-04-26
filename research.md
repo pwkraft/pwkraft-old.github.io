@@ -7,11 +7,11 @@ permalink: /research/
 # Dissertation
 
 **Tell Me What You Think: Leveraging Open-Ended Measures in Political Psychology**\\
-_Committee_: Jennifer Jerit (chair), Stanley Feldman, Yanna Krupnikov
+_Committee_: Jennifer Jerit (chair), Stanley Feldman, Yanna Krupnikov, Michael Peress, Arthur Spirling (external member)
 <button class="link" onclick="showAbstract('diss')">(abstract</button>)
 <div id="diss" style="display:none">
 <blockquote>
-	Verbally expressing your attitudes toward an issue is one of the most ubiquitous ways to engage in politics. Yet little research directly studies this basic feature of day-to-day political life. Building on recent advances in quantitative text analysis methods, I develop new measures to systematically examine verbatim political attitude expression. By analyzing how citizens describe their beliefs and discuss them with peers, my research advances previous theoretical insights on the role of morality in political attitudes, the nature of political sophistication, and the mechanisms underlying attitude change in political discussions.
+	Though verbally expressing attitudes is one of the most ubiquitous ways people engage in politics, this basic feature of political life is rarely studied directly. Building on recent advances in automated text analysis, I develop new measures to systematically examine verbatim political attitude expression. By analyzing how citizens describe their beliefs and discuss them with peers, my research advances previous theoretical insights on the nature of political sophistication as well as the role of morality in politics and persuasion. The first part of the dissertation shows that the complexity with which people discuss political preferences, or their discursive sophistication, is a better predictor of political competence than factual knowledge alone. My measure of discursive sophistication furthermore suggests that---in contrast to previous findings in the literature---women are by no means less politically sophisticated than men. In the second part, I examine ideological differences in the contents of expressed attitudes. The analyses reveal systematic variation in the use of moral language between liberals and conservatives when talking about politics, a finding that is consistent with previous research in moral psychology. However, the reliance on morality is influenced by the degree to which people are exposed to moral rhetoric in the media. The third part of the dissertation investigates how the expression of moral considerations affects persuasion and attitude change in the context of online discussions. While moral appeals do not change people's minds across the board, those who hear arguments that are morally congruent with their preexisting attitudes are more likely to be persuaded. Overall, the dissertation advocates for a greater use of text-as-data and open-ended measures in the area of political psychology.
 </blockquote>
 </div>
 
@@ -87,17 +87,23 @@ R package version 1.3. ([CRAN](https://CRAN.R-project.org/package=ArfimaMLM), [G
 
 # Selected Work in Progress
 
-**When do Voters Take into Account Post-Election Bargaining Processes?** \\
-with Lukas St&#246;tzer. _Under review_.
-
 **The Perils of Protest: Race, Civilian Complaint, and Police Retaliation** \\
 with Benjamin J. Newman. _Under review_.
 
-**Looking for Answers: A Naive Approach for Measuring Political Sophistication** \\
-_Draft preparation_.
+**When do Voters Take into Account Post-Election Bargaining Processes?** \\
+with Lukas St&#246;tzer. _Under review_.
+
+**Let's Talk Politics: A Naive Approach for Measuring Political Sophistication** \\
+_Under Review_.
+
+**The Moralization of Politics: Evidence from Denmark, Germany and the UK** \\
+with Robert Klemmensen and Erik Gahner Larsen. _Draft preparation_.
 
 **The Modern Gatekeepers in Mass Media** \\
 with John B. Ryan, Yanna Krupnikov, and Kerri Milita. _Data collection and analyses_.
+
+**Change My View: Do Moral Appeals Facilitate Compromise?** \\
+_Draft preparation_.
 
 
 

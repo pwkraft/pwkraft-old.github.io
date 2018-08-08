@@ -1,12 +1,12 @@
 # Site settings
-title: Patrick W. Kraft | Assistant Professor in the Department of Political Science at the University of Wisconsin-Milwaukee
+title: Patrick W. Kraft | Assistant Professor | Political Science | University of Wisconsin-Milwaukee
 email: kraftp@uwm.edu
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Sidebar settings
 description: Patrick W. Kraft
-affiliation: Deptartment of Political Science  University of Wisconsin-Milwaukee
+affiliation: Deptartment of Political Science  University of Wisconsin Milwaukee
 
 # Social icons
 github: pwkraft

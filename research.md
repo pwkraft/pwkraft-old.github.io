@@ -91,11 +91,14 @@ R package version 1.3. ([CRAN](https://CRAN.R-project.org/package=ArfimaMLM), [G
 **The Perils of Protest: Race, Civilian Complaint, and Police Retaliation** \\
 with Benjamin J. Newman. _Under review_.
 
-**When do Voters Take into Account Post-Election Bargaining Processes?** \\
-with Lukas St&#246;tzer. _Under review_.
+**Cointegration Testing with the General Error Correction Model** \\
+with Matthew J. Lebo. _Under review_.
 
 **Let's Talk Politics: A Naive Approach for Measuring Political Sophistication** \\
 _Under Review_.
+
+**When do Voters Take into Account Post-Election Bargaining Processes?** \\
+with Lukas St&#246;tzer. _Under review_.
 
 **The Moralization of Politics: Evidence from Denmark, Germany and the UK** \\
 with Robert Klemmensen and Erik Gahner Larsen. _Draft preparation_.

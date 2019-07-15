@@ -18,6 +18,20 @@ _Committee_: Jennifer Jerit (chair), Stanley Feldman, Yanna Krupnikov, Michael P
 
 # Publications
 
+
+**Personality and Prosocial Behavior: A Multilevel Meta-Analysis** \\
+with Reuben Kline, Alexa Bankert, and Lindsey Levitan. _Political Science Research & Methods_ 7(1): 125&#8212;142.
+<button class="link" onclick="showAbstract('personality')">(abstract</button>
+, <a href="../resources/articles/kline2017personality_accepted.pdf">pdf</a>
+, <a href="../resources/articles/kline2017personality_appendix.pdf">appendix</a>
+, <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/personality-and-prosocial-behavior-a-multilevel-metaanalysis/2DC6F642FA396AF20E0108D1551CCD99#fndtn-information" target="blank">link</a>)
+<div id="personality" style="display:none">
+<blockquote>
+	We investigate the effect of personality on prosocial behavior in a Bayesian multilevel meta-analysis (MLMA) of 15 published, interdisciplinary experimental studies. With data from the 15 studies constituting nearly 2500 individual observations, we find that the Big Five traits of Agreeableness and Openness are significantly and positively associated with prosocial behavior, while none of the other three traits are. These results are robust to a number of different model specifications and operationalizations of prosociality, and they greatly clarify the contradictory findings in the literature on the relationship between personality and prosocial behavior. Though previous research has indicated that incentivized experiments result in reduced prosocial behavior, we find no evidence that monetary incentivization of participants affects prosocial tendencies. By leveraging individual observations from multiple studies and explicitly modeling the multi-level structure of the data, MLMA permits the simultaneous estimation of study- and individual-level effects. The Bayesian approach allows us to estimate study-level effects in an unbiased and efficient manner, even with a relatively small number of studies. We conclude by discussing the limitations of our study and the advantages and disadvantages of the MLMA method.
+</blockquote>
+</div>
+
+
 **Measuring Morality in Political Attitude Expression** \\
 2018, _Journal of Politics_ 8(3): 1028&#8212;1033
 <button class="link" onclick="showAbstract('morality')">(abstract</button>
@@ -30,17 +44,6 @@ _Committee_: Jennifer Jerit (chair), Stanley Feldman, Yanna Krupnikov, Michael P
 </blockquote>
 </div>
 
-**Personality and Prosocial Behavior: A Multilevel Meta-Analysis** \\
-with Reuben Kline, Alexa Bankert, and Lindsey Levitan. Forthcoming at _Political Science Research & Methods_.
-<button class="link" onclick="showAbstract('personality')">(abstract</button>
-, <a href="../resources/articles/kline2017personality_accepted.pdf">pdf</a>
-, <a href="../resources/articles/kline2017personality_appendix.pdf">appendix</a>
-, <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/personality-and-prosocial-behavior-a-multilevel-metaanalysis/2DC6F642FA396AF20E0108D1551CCD99#fndtn-information" target="blank">link</a>)
-<div id="personality" style="display:none">
-<blockquote>
-	We investigate the effect of personality on prosocial behavior in a Bayesian multilevel meta-analysis (MLMA) of 15 published, interdisciplinary experimental studies. With data from the 15 studies constituting nearly 2500 individual observations, we find that the Big Five traits of Agreeableness and Openness are significantly and positively associated with prosocial behavior, while none of the other three traits are. These results are robust to a number of different model specifications and operationalizations of prosociality, and they greatly clarify the contradictory findings in the literature on the relationship between personality and prosocial behavior. Though previous research has indicated that incentivized experiments result in reduced prosocial behavior, we find no evidence that monetary incentivization of participants affects prosocial tendencies. By leveraging individual observations from multiple studies and explicitly modeling the multi-level structure of the data, MLMA permits the simultaneous estimation of study- and individual-level effects. The Bayesian approach allows us to estimate study-level effects in an unbiased and efficient manner, even with a relatively small number of studies. We conclude by discussing the limitations of our study and the advantages and disadvantages of the MLMA method.
-</blockquote>
-</div>
 
 **The General Error Correction Model in Practice** \\
 with Matthew Lebo. 2017. _Research and Politics_. 4(2): 2053168017713059.
@@ -88,23 +91,23 @@ R package version 1.3. ([CRAN](https://CRAN.R-project.org/package=ArfimaMLM), [G
 
 # Selected Work in Progress
 
-**The Perils of Protest: Race, Civilian Complaint, and Police Retaliation** \\
-with Benjamin J. Newman. _Under review_.
+**Complaints About Police Misconduct Have Adverse Effects for Black Citizens** \\
+with Benjamin J. Newman. Invitation to revise and resubmit at _Nature Human Behaviour_.
+
+**Social Media \& the Changing Information Environment: Sentiment Differences in Read versus Re-Circulated News Content** \\
+with Stuart Soroka, John B. Ryan, Kerri Milita, and Yanna Krupnikov. Invitation to revise and resubmit at _Public Opinion Quarterly_.
+
+**Glass Half-Full or Half Empty: Does Optimism about Women’s Representation in Elected Office Matter?** \\
+with Kathleen Dolan. _Under review_.
 
 **Cointegration Testing with the General Error Correction Model** \\
 with Matthew J. Lebo. _Under review_.
 
-**Let's Talk Politics: A Naive Approach for Measuring Political Sophistication** \\
-_Under Review_.
-
-**When do Voters Take into Account Post-Election Bargaining Processes?** \\
-with Lukas St&#246;tzer. _Under review_.
-
-**The Moralization of Politics: Evidence from Denmark, Germany and the UK** \\
+**Moral Foundations in Political Speeches** \\
 with Robert Klemmensen and Erik Gahner Larsen. _Draft preparation_.
 
-**The Modern Gatekeepers in Mass Media** \\
-with John B. Ryan, Yanna Krupnikov, and Kerri Milita. _Data collection and analyses_.
+**Let's Talk Politics: A Naive Approach for Measuring Political Sophistication** \\
+_Draft preparation_.
 
 **Change My View: Do Moral Appeals Facilitate Compromise?** \\
 _Draft preparation_.

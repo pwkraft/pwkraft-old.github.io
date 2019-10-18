@@ -94,24 +94,20 @@ R package version 1.3. ([CRAN](https://CRAN.R-project.org/package=ArfimaMLM), [G
 **Complaints About Police Misconduct Have Adverse Effects for Black Citizens** \\
 with Benjamin J. Newman. Invitation to revise and resubmit at _Nature Human Behaviour_.
 
-**Social Media \& the Changing Information Environment: Sentiment Differences in Read versus Re-Circulated News Content** \\
+**Social Media & the Changing Information Environment: Sentiment Differences in Read versus Re-Circulated News Content** \\
 with Stuart Soroka, John B. Ryan, Kerri Milita, and Yanna Krupnikov. Invitation to revise and resubmit at _Public Opinion Quarterly_.
 
-**Glass Half-Full or Half Empty: Does Optimism about Women’s Representation in Elected Office Matter?** \\
-with Kathleen Dolan. _Under review_.
+**Everyone Cares about Fairness: Why Morality Doesn't Fit in a Bag of Words** \\
+with Robert Klemmensen and Erik Gahner Larsen. _Draft preparation_.
 
 **Cointegration Testing with the General Error Correction Model** \\
 with Matthew J. Lebo. _Under review_.
 
-**Moral Foundations in Political Speeches** \\
-with Robert Klemmensen and Erik Gahner Larsen. _Draft preparation_.
+**Glass Half-Full or Half Empty: Does Optimism about Women’s Representation in Elected Office Matter?** \\
+with Kathleen Dolan. _Under review_.
 
 **Let's Talk Politics: A Naive Approach for Measuring Political Sophistication** \\
 _Draft preparation_.
 
 **Change My View: Do Moral Appeals Facilitate Compromise?** \\
 _Draft preparation_.
-
-
-
-

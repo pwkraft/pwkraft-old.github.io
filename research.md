@@ -18,6 +18,8 @@ _Committee_: Jennifer Jerit (chair), Stanley Feldman, Yanna Krupnikov, Michael P
 
 # Publications
 
+**Social Media & the Changing Information Environment: Sentiment Differences in Read versus Re-Circulated News Content** \\
+with Stuart Soroka, John B. Ryan, Kerri Milita, and Yanna Krupnikov. Conditionally accepted at _Public Opinion Quarterly_.
 
 **Personality and Prosocial Behavior: A Multilevel Meta-Analysis** \\
 with Reuben Kline, Alexa Bankert, and Lindsey Levitan. _Political Science Research & Methods_ 7(1): 125&#8212;142.
@@ -94,11 +96,8 @@ R package version 1.3. ([CRAN](https://CRAN.R-project.org/package=ArfimaMLM), [G
 **Complaints About Police Misconduct Have Adverse Effects for Black Citizens** \\
 with Benjamin J. Newman. Invitation to revise and resubmit at _Nature Human Behaviour_.
 
-**Social Media & the Changing Information Environment: Sentiment Differences in Read versus Re-Circulated News Content** \\
-with Stuart Soroka, John B. Ryan, Kerri Milita, and Yanna Krupnikov. Invitation to revise and resubmit at _Public Opinion Quarterly_.
-
 **Everyone Cares about Fairness: Why Morality Doesn't Fit in a Bag of Words** \\
-with Robert Klemmensen and Erik Gahner Larsen. _Draft preparation_.
+with Robert Klemmensen and Erik Gahner Larsen. _Under review_.
 
 **Cointegration Testing with the General Error Correction Model** \\
 with Matthew J. Lebo. _Under review_.

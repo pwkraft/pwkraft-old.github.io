@@ -22,7 +22,7 @@ _Committee_: Jennifer Jerit (chair), Stanley Feldman, Yanna Krupnikov, Michael P
 with Stuart Soroka, John B. Ryan, Kerri Milita, and Yanna Krupnikov. Conditionally accepted at _Public Opinion Quarterly_.
 
 **Personality and Prosocial Behavior: A Multilevel Meta-Analysis** \\
-with Reuben Kline, Alexa Bankert, and Lindsey Levitan. _Political Science Research & Methods_ 7(1): 125&#8212;142.
+with Reuben Kline, Alexa Bankert, and Lindsey Levitan. 2019. _Political Science Research & Methods_ 7(1): 125&#8212;142.
 <button class="link" onclick="showAbstract('personality')">(abstract</button>
 , <a href="../resources/articles/kline2017personality_accepted.pdf">pdf</a>
 , <a href="../resources/articles/kline2017personality_appendix.pdf">appendix</a>
@@ -35,7 +35,7 @@ with Reuben Kline, Alexa Bankert, and Lindsey Levitan. _Political Science Resear
 
 
 **Measuring Morality in Political Attitude Expression** \\
-2018, _Journal of Politics_ 8(3): 1028&#8212;1033
+2018. _Journal of Politics_ 8(3): 1028&#8212;1033
 <button class="link" onclick="showAbstract('morality')">(abstract</button>
 , <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/696862" target="blank">link</a>
 , <a href="../resources/articles/kraft2018measuring_accepted.pdf">pdf</a>

@@ -35,7 +35,7 @@ with Reuben Kline, Alexa Bankert, and Lindsey Levitan. 2019. _Political Science 
 
 
 **Measuring Morality in Political Attitude Expression** \\
-2018. _Journal of Politics_ 8(3): 1028&#8212;1033
+\2018. _Journal of Politics_ 8(3): 1028&#8212;1033
 <button class="link" onclick="showAbstract('morality')">(abstract</button>
 , <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/696862" target="blank">link</a>
 , <a href="../resources/articles/kraft2018measuring_accepted.pdf">pdf</a>

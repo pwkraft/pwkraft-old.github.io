@@ -94,7 +94,7 @@ R package version 1.3. ([CRAN](https://CRAN.R-project.org/package=ArfimaMLM), [G
 # Selected Work in Progress
 
 **Complaints About Police Misconduct Have Adverse Effects for Black Citizens** \\
-with Benjamin J. Newman. Invitation to revise and resubmit at _Nature Human Behaviour_.
+with Benjamin J. Newman. Revise and resubmit.
 
 **Everyone Cares about Fairness: Why Morality Doesn't Fit in a Bag of Words** \\
 with Robert Klemmensen and Erik Gahner Larsen. _Under review_.
@@ -102,11 +102,20 @@ with Robert Klemmensen and Erik Gahner Larsen. _Under review_.
 **Cointegration Testing with the General Error Correction Model** \\
 with Matthew J. Lebo. _Under review_.
 
-**Glass Half-Full or Half Empty: Does Optimism about Women’s Representation in Elected Office Matter?** \\
-with Kathleen Dolan. _Under review_.
-
 **Let's Talk Politics: A Naive Approach for Measuring Political Sophistication** \\
 _Draft preparation_.
 
+**Asking the Right Questions: A Framework to Develop Gender-Balanced Knowledge Batteries** \\
+with Kathleen Dolan. _Data analysis_.
+
+**Information, Polling, and Elections** \\
+with Lukas Stoetzer and Benjamin Schlegel. _Data analysis_.
+
+**Reliable Sources? Correcting Misinformation in Polarized Media Environments** \\
+with Nicholas R. Davis, Taraleigh Davis, Amanda Heideman, Jason T. Neumeyer, and Shin Young Park. _Data analysis_.
+
+**Glass Half-Full or Half Empty: Does Optimism about Women’s Representation in Elected Office Matter?** \\
+with Kathleen Dolan. _Preparing further data collection_.
+
 **Change My View: Do Moral Appeals Facilitate Compromise?** \\
-_Draft preparation_.
+_Preparing further data collection_.

@@ -13,7 +13,7 @@ Undergraduate lecture (online), University of Wisconsin-Milwaukee, Spring 2020 \
 
 **POL SCI 104 - Introduction to American Government and Politics** \\
 Undergraduate lecture (online), University of Wisconsin-Milwaukee, Fall 2019 & Spring 2020 \\
-[Syllabus](../resources/syllabi/PolSci104_2019.pdf)
+[Syllabus](../resources/syllabi/PolSci104_2020.pdf)
 
 **POL SCI 702 - Advanced Techniques of Political Science Research** \\
 Graduate lecture, University of Wisconsin-Milwaukee, Spring 2019 \\

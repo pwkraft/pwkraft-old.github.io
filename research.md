@@ -94,16 +94,16 @@ R package version 1.3. ([CRAN](https://CRAN.R-project.org/package=ArfimaMLM), [G
 # Selected Work in Progress
 
 **Complaints About Police Misconduct Have Adverse Effects for Black Citizens** \\
-with Benjamin J. Newman. Revise and resubmit.
+with Benjamin J. Newman. _Revise and resubmit_.
+
+**Hypothesis Testing with Error Correction Models** \\
+with Ellen M. Key and Matthew J. Lebo. _Revise and resubmit_.
 
 **Everyone Cares about Fairness: Why Morality Doesn't Fit in a Bag of Words** \\
 with Robert Klemmensen and Erik Gahner Larsen. _Under review_.
 
-**Cointegration Testing with the General Error Correction Model** \\
-with Matthew J. Lebo. _Under review_.
-
 **Let's Talk Politics: A Naive Approach for Measuring Political Sophistication** \\
-_Draft preparation_.
+_In preparation for submission_.
 
 **Asking the Right Questions: A Framework to Develop Gender-Balanced Knowledge Batteries** \\
 with Kathleen Dolan. _Data analysis_.

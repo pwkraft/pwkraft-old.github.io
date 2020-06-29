@@ -4,22 +4,18 @@ title: Research
 permalink: /research/
 ---
 
-# Dissertation
-
-**Tell Me What You Think: Leveraging Open-Ended Measures in Political Psychology**\\
-_Committee_: Jennifer Jerit (chair), Stanley Feldman, Yanna Krupnikov, Michael Peress, Arthur Spirling (external member)
-<button class="link" onclick="showAbstract('diss')">(abstract</button>)
-<div id="diss" style="display:none">
-<blockquote>
-	Though verbally expressing attitudes is one of the most ubiquitous ways people engage in politics, this basic feature of political life is rarely studied directly. Building on recent advances in automated text analysis, I develop new measures to systematically examine verbatim political attitude expression. By analyzing how citizens describe their beliefs and discuss them with peers, my research advances previous theoretical insights on the nature of political sophistication as well as the role of morality in politics and persuasion. The first part of the dissertation shows that the complexity with which people discuss political preferences, or their discursive sophistication, is a better predictor of political competence than factual knowledge alone. My measure of discursive sophistication furthermore suggests that---in contrast to previous findings in the literature---women are by no means less politically sophisticated than men. In the second part, I examine ideological differences in the contents of expressed attitudes. The analyses reveal systematic variation in the use of moral language between liberals and conservatives when talking about politics, a finding that is consistent with previous research in moral psychology. However, the reliance on morality is influenced by the degree to which people are exposed to moral rhetoric in the media. The third part of the dissertation investigates how the expression of moral considerations affects persuasion and attitude change in the context of online discussions. While moral appeals do not change people's minds across the board, those who hear arguments that are morally congruent with their preexisting attitudes are more likely to be persuaded. Overall, the dissertation advocates for a greater use of text-as-data and open-ended measures in the area of political psychology.
-</blockquote>
-</div>
-
-
 # Publications
 
 **Social Media & the Changing Information Environment: Sentiment Differences in Read versus Re-Circulated News Content** \\
-with Stuart Soroka, John B. Ryan, Kerri Milita, and Yanna Krupnikov. Conditionally accepted at _Public Opinion Quarterly_.
+with Stuart Soroka, John B. Ryan, Kerri Milita, and Yanna Krupnikov. Forthcoming at _Public Opinion Quarterly_.
+<button class="link" onclick="showAbstract('social')">(abstract</button>
+, <a href="https://academic.oup.com/poq/article-abstract/doi/10.1093/poq/nfaa015/5862983" target="blank">link</a>)
+<div id="social" style="display:none">
+<blockquote>
+	There is reason to believe that an increasing proportion of the news consumers receive is not from news producers directly but is recirculated through social network sites and email by ordinary citizens. This may produce some fundamental changes in the information environment, but the data to examine this possibility have thus far been relatively limited. In the current paper, we examine the changing in-formation environment by leveraging a body of data on the frequency of (a) views, and recirculations through (b) Twitter, (c) Facebook, and (d) email of New York Times stories. We expect that the distribution of sentiment (positive-negative) in news stories will shift in a positive direction as we move from (a) to (d), based in large part on the literatures on self-presentation and imagined audiences. Our findings support this expectation and have important implications for the information contexts increasingly shaping public opinion.
+</blockquote>
+</div>
+
 
 **Personality and Prosocial Behavior: A Multilevel Meta-Analysis** \\
 with Reuben Kline, Alexa Bankert, and Lindsey Levitan. 2019. _Political Science Research & Methods_ 7(1): 125&#8212;142.
@@ -72,7 +68,7 @@ with Milton Lodge and Charles S. Taber. 2015. _Annals of the American Academy of
 
 **Political Information Flows and Consistent Voting:** \\
 **Personal Conversations, Mass Media, Party Campaigns and the Quality of Voting Decisions at the 2009 German Federal Election** \\
-with R&#252;diger Schmitt-Beck. 2014.  In: _Voters on the Move or on the Run? Information-processing and Vote Choice in a Complex World_. \\
+with R&#252;diger Schmitt-Beck. 2014. In: _Voters on the Move or on the Run? Information-processing and Vote Choice in a Complex World_. \\
 ed. Bernhard We&#223;els / Hans Rattinger / Sigrid Ro&#223;teutscher / R&#252;diger Schmitt-Beck. Oxford: Oxford University Press: 193&#8212;216.
 
 **Helfen politische Gespr&#228;che, 'korrekt' zu w&#228;hlen? Eine Analyse zur Bundestagswahl 2009** \\
@@ -119,3 +115,15 @@ with Kathleen Dolan. _Preparing further data collection_.
 
 **Change My View: Do Moral Appeals Facilitate Compromise?** \\
 _Preparing further data collection_.
+
+
+# Dissertation
+
+**Tell Me What You Think: Leveraging Open-Ended Measures in Political Psychology**\\
+_Committee_: Jennifer Jerit (chair), Stanley Feldman, Yanna Krupnikov, Michael Peress, Arthur Spirling (external member)
+<button class="link" onclick="showAbstract('diss')">(abstract</button>)
+<div id="diss" style="display:none">
+<blockquote>
+	Though verbally expressing attitudes is one of the most ubiquitous ways people engage in politics, this basic feature of political life is rarely studied directly. Building on recent advances in automated text analysis, I develop new measures to systematically examine verbatim political attitude expression. By analyzing how citizens describe their beliefs and discuss them with peers, my research advances previous theoretical insights on the nature of political sophistication as well as the role of morality in politics and persuasion. The first part of the dissertation shows that the complexity with which people discuss political preferences, or their discursive sophistication, is a better predictor of political competence than factual knowledge alone. My measure of discursive sophistication furthermore suggests that---in contrast to previous findings in the literature---women are by no means less politically sophisticated than men. In the second part, I examine ideological differences in the contents of expressed attitudes. The analyses reveal systematic variation in the use of moral language between liberals and conservatives when talking about politics, a finding that is consistent with previous research in moral psychology. However, the reliance on morality is influenced by the degree to which people are exposed to moral rhetoric in the media. The third part of the dissertation investigates how the expression of moral considerations affects persuasion and attitude change in the context of online discussions. While moral appeals do not change people's minds across the board, those who hear arguments that are morally congruent with their preexisting attitudes are more likely to be persuaded. Overall, the dissertation advocates for a greater use of text-as-data and open-ended measures in the area of political psychology.
+</blockquote>
+</div>

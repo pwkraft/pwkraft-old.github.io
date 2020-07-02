@@ -7,7 +7,7 @@ permalink: /research/
 # Publications
 
 **Social Media & the Changing Information Environment: Sentiment Differences in Read versus Re-Circulated News Content** \\
-with Stuart Soroka, John B. Ryan, Kerri Milita, and Yanna Krupnikov. Forthcoming at _Public Opinion Quarterly_.
+with Yanna Krupnikov, Kerri Milita, John B. Ryan, and Stuart Soroka. Forthcoming at _Public Opinion Quarterly_.
 <button class="link" onclick="showAbstract('social')">(abstract</button>
 , <a href="https://academic.oup.com/poq/article-abstract/doi/10.1093/poq/nfaa015/5862983" target="blank">link</a>)
 <div id="social" style="display:none">

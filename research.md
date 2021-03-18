@@ -6,8 +6,11 @@ permalink: /research/
 
 # Publications
 
+**Hypothesis Testing with Error Correction Models** \\
+with Ellen M. Key and Matthew J. Lebo. Conditionally accepted at _Political Science Research & Methods_.
+
 **Social Media & the Changing Information Environment: Sentiment Differences in Read versus Re-Circulated News Content** \\
-with Yanna Krupnikov, Kerri Milita, John B. Ryan, and Stuart Soroka. Forthcoming at _Public Opinion Quarterly_.
+with Yanna Krupnikov, Kerri Milita, John B. Ryan, and Stuart Soroka. 2020. _Public Opinion Quarterly_.
 <button class="link" onclick="showAbstract('social')">(abstract</button>
 , <a href="https://academic.oup.com/poq/article-abstract/doi/10.1093/poq/nfaa015/5862983" target="blank">link</a>)
 <div id="social" style="display:none">
@@ -81,22 +84,19 @@ ed. Silke I. Keil / S. Isabell Thaidigsmann. Wiesbaden: Springer VS: 117&#8212;1
 _Working Paper of the Mannheim Center for European Social Research_: 148. <a href="http://www.mzes.uni-mannheim.de/publications/wp/wp-148.pdf">(pdf)</a>
 
 
-# Software
-
-**ArfimaMLM: Arfima-MLM Estimation For Repeated Cross-Sectional Data** \\
-R package version 1.3. ([CRAN](https://CRAN.R-project.org/package=ArfimaMLM), [Github](http://github.com/pwkraft/ArfimaMLM), [Documentation](../resources/articles/ArfimaMLM-documentation.pdf)).
-
-
 # Selected Work in Progress
 
-**Complaints About Police Misconduct Have Adverse Effects for Black Citizens** \\
-with Benjamin J. Newman. _Revise and resubmit_.
+**Why Knowledge is Not Good Enough: Examining Individual Preconditions for Strategic Voting** \\
+with Lukas Stoetzer and Benjamin Schlegel. _Under review_.
 
-**Hypothesis Testing with Error Correction Models** \\
-with Ellen M. Key and Matthew J. Lebo. _Revise and resubmit_.
+**Reliable Sources? Correcting Misinformation in Polarized Media Environments** \\
+with Nicholas R. Davis, Taraleigh Davis, Amanda Heideman, Jason T. Neumeyer, and Shin Young Park. _Under review_.
+
+**Complaints About Police Misconduct Have Adverse Effects for Black Citizens** \\
+with Benjamin J. Newman. _Under review_.
 
 **Everyone Cares about Fairness: Why Morality Doesn't Fit in a Bag of Words** \\
-with Robert Klemmensen and Erik Gahner Larsen. _Under review_.
+with Robert Klemmensen and Erik Gahner Larsen. _In preparation for submission_.
 
 **Let's Talk Politics: A Naive Approach for Measuring Political Sophistication** \\
 _In preparation for submission_.
@@ -104,17 +104,17 @@ _In preparation for submission_.
 **Asking the Right Questions: A Framework to Develop Gender-Balanced Knowledge Batteries** \\
 with Kathleen Dolan. _Data analysis_.
 
-**Information, Polling, and Elections** \\
-with Lukas Stoetzer and Benjamin Schlegel. _Data analysis_.
-
-**Reliable Sources? Correcting Misinformation in Polarized Media Environments** \\
-with Nicholas R. Davis, Taraleigh Davis, Amanda Heideman, Jason T. Neumeyer, and Shin Young Park. _Data analysis_.
-
 **Glass Half-Full or Half Empty: Does Optimism about Women’s Representation in Elected Office Matter?** \\
 with Kathleen Dolan. _Preparing further data collection_.
 
 **Change My View: Do Moral Appeals Facilitate Compromise?** \\
 _Preparing further data collection_.
+
+
+# Software
+
+**ArfimaMLM: Arfima-MLM Estimation For Repeated Cross-Sectional Data** \\
+R package version 1.3. ([CRAN](https://CRAN.R-project.org/package=ArfimaMLM), [Github](http://github.com/pwkraft/ArfimaMLM), [Documentation](../resources/articles/ArfimaMLM-documentation.pdf)).
 
 
 # Dissertation

@@ -10,7 +10,7 @@ permalink: /research/
 with Ellen M. Key and Matthew J. Lebo. Conditionally accepted at _Political Science Research & Methods_.
 
 **Social Media & the Changing Information Environment: Sentiment Differences in Read versus Re-Circulated News Content** \\
-with Yanna Krupnikov, Kerri Milita, John B. Ryan, and Stuart Soroka. 2020. _Public Opinion Quarterly_.
+with Yanna Krupnikov, Kerri Milita, John B. Ryan, and Stuart Soroka. 2020. _Public Opinion Quarterly_ 84(S1): 195&#8212;215.
 <button class="link" onclick="showAbstract('social')">(abstract</button>
 , <a href="https://academic.oup.com/poq/article-abstract/doi/10.1093/poq/nfaa015/5862983" target="blank">link</a>)
 <div id="social" style="display:none">

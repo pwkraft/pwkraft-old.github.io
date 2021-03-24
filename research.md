@@ -84,16 +84,22 @@ ed. Silke I. Keil / S. Isabell Thaidigsmann. Wiesbaden: Springer VS: 117&#8212;1
 _Working Paper of the Mannheim Center for European Social Research_: 148. <a href="http://www.mzes.uni-mannheim.de/publications/wp/wp-148.pdf">(pdf)</a>
 
 
-# Selected Work in Progress
+# Manuscripts Under Review
 
 **Why Knowledge is Not Good Enough: Examining Individual Preconditions for Strategic Voting** \\
-with Lukas Stoetzer and Benjamin Schlegel. _Under review_.
+with Lukas Stoetzer and Benjamin Schlegel.
 
 **Reliable Sources? Correcting Misinformation in Polarized Media Environments** \\
-with Nicholas R. Davis, Taraleigh Davis, Amanda Heideman, Jason T. Neumeyer, and Shin Young Park. _Under review_.
+with Nicholas R. Davis, Taraleigh Davis, Amanda Heideman, Jason T. Neumeyer, and Shin Young Park.
 
-**Complaints About Police Misconduct Have Adverse Effects for Black Citizens** \\
-with Benjamin J. Newman. _Under review_.
+**The Perils of Protest: Complaints About Police Misconduct Have Adverse Effects for Black Citizens** \\
+with Benjamin J. Newman.
+
+**Glass Half-Full or Half Empty: Does Optimism about Women’s Representation in Elected Office Affect Political Interest and Efficacy?** \\
+with Kathleen Dolan.
+
+
+# Selected Work in Progress
 
 **Everyone Cares about Fairness: Why Morality Doesn't Fit in a Bag of Words** \\
 with Robert Klemmensen and Erik Gahner Larsen. _In preparation for submission_.
@@ -103,9 +109,6 @@ _In preparation for submission_.
 
 **Asking the Right Questions: A Framework to Develop Gender-Balanced Knowledge Batteries** \\
 with Kathleen Dolan. _Data analysis_.
-
-**Glass Half-Full or Half Empty: Does Optimism about Women’s Representation in Elected Office Matter?** \\
-with Kathleen Dolan. _Preparing further data collection_.
 
 **Change My View: Do Moral Appeals Facilitate Compromise?** \\
 _Preparing further data collection_.

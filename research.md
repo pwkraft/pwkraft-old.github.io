@@ -6,8 +6,11 @@ permalink: /research/
 
 # Publications
 
+**Reliable Sources? Correcting Misinformation in Polarized Media Environments** \\
+with Nicholas R. Davis, Taraleigh Davis, Amanda Heideman, Jason T. Neumeyer, and Shin Young Park. Accepted at _American Politics Research_.
+
 **Hypothesis Testing with Error Correction Models** \\
-with Ellen M. Key and Matthew J. Lebo. Conditionally accepted at _Political Science Research & Methods_.
+with Ellen M. Key and Matthew J. Lebo. Forthcoming at _Political Science Research & Methods_.
 
 **Social Media & the Changing Information Environment: Sentiment Differences in Read versus Re-Circulated News Content** \\
 with Yanna Krupnikov, Kerri Milita, John B. Ryan, and Stuart Soroka. 2020. _Public Opinion Quarterly_ 84(S1): 195&#8212;215.
@@ -18,7 +21,6 @@ with Yanna Krupnikov, Kerri Milita, John B. Ryan, and Stuart Soroka. 2020. _Publ
 	There is reason to believe that an increasing proportion of the news consumers receive is not from news producers directly but is recirculated through social network sites and email by ordinary citizens. This may produce some fundamental changes in the information environment, but the data to examine this possibility have thus far been relatively limited. In the current paper, we examine the changing in-formation environment by leveraging a body of data on the frequency of (a) views, and recirculations through (b) Twitter, (c) Facebook, and (d) email of New York Times stories. We expect that the distribution of sentiment (positive-negative) in news stories will shift in a positive direction as we move from (a) to (d), based in large part on the literatures on self-presentation and imagined audiences. Our findings support this expectation and have important implications for the information contexts increasingly shaping public opinion.
 </blockquote>
 </div>
-
 
 **Personality and Prosocial Behavior: A Multilevel Meta-Analysis** \\
 with Reuben Kline, Alexa Bankert, and Lindsey Levitan. 2019. _Political Science Research & Methods_ 7(1): 125&#8212;142.
@@ -32,7 +34,6 @@ with Reuben Kline, Alexa Bankert, and Lindsey Levitan. 2019. _Political Science 
 </blockquote>
 </div>
 
-
 **Measuring Morality in Political Attitude Expression** \\
 \2018. _Journal of Politics_ 8(3): 1028&#8212;1033
 <button class="link" onclick="showAbstract('morality')">(abstract</button>
@@ -45,7 +46,6 @@ with Reuben Kline, Alexa Bankert, and Lindsey Levitan. 2019. _Political Science 
 </blockquote>
 </div>
 
-
 **The General Error Correction Model in Practice** \\
 with Matthew Lebo. 2017. _Research and Politics_. 4(2): 2053168017713059.
 <button class="link" onclick="showAbstract('gecm')">(abstract</button>
@@ -57,7 +57,6 @@ with Matthew Lebo. 2017. _Research and Politics_. 4(2): 2053168017713059.
 </blockquote>
 </div>
 
-
 **Why People 'Don't Trust the Evidence': Motivated Reasoning and Scientific Beliefs** \\
 with Milton Lodge and Charles S. Taber. 2015. _Annals of the American Academy of Political and Social Science_ 658(1): 121&#8212;133.
 <button class="link" onclick="showAbstract('evidence')">(abstract</button>
@@ -67,7 +66,6 @@ with Milton Lodge and Charles S. Taber. 2015. _Annals of the American Academy of
 	In this commentary, we embed the volume's contributions on public beliefs about science in a broader theoretical discussion of motivated political reasoning. The studies presented in the preceding section of the volume consistently find evidence for hyperskepticism toward scientific evidence among ideologues, no matter the domain or context &#8212; and this skepticism seems to be stronger among conservatives than liberals. here, we show that these patterns can be understood as part of a general tendency among individuals to defend their prior attitudes and actively challenge attitudinally incongruent arguments, a tendency that appears to be evident among liberals and conservatives alike. We integrate the empirical results reported in this volume into a broader theoretical discussion of the John Q. Public model of information processing and motivated reasoning, which posits that both affective and cognitive reactions to events are triggered unconsciously. We find that the work in this volume is largely consistent with our theories of affect-driven motivated reasoning and biased attitude formation.
 </blockquote>
 </div>
-
 
 **Political Information Flows and Consistent Voting:** \\
 **Personal Conversations, Mass Media, Party Campaigns and the Quality of Voting Decisions at the 2009 German Federal Election** \\
@@ -83,32 +81,33 @@ ed. Silke I. Keil / S. Isabell Thaidigsmann. Wiesbaden: Springer VS: 117&#8212;1
 [Correct Voting in Germany: An Analysis of the Quality of Individual Voting Decisions in the 2009 German Federal Election.] 2012. \\
 _Working Paper of the Mannheim Center for European Social Research_: 148. <a href="http://www.mzes.uni-mannheim.de/publications/wp/wp-148.pdf">(pdf)</a>
 
-
 # Manuscripts Under Review
 
-**Why Knowledge is Not Good Enough: Examining Individual Preconditions for Strategic Voting** \\
-with Lukas Stoetzer and Benjamin Schlegel.
+**Asking the Right Questions: A Framework to Develop Gender-Balanced Knowledge Batteries** \\
+with Kathleen Dolan.  Invitation to revise and resubmit at _Political Research Quarterly_.
 
-**Reliable Sources? Correcting Misinformation in Polarized Media Environments** \\
-with Nicholas R. Davis, Taraleigh Davis, Amanda Heideman, Jason T. Neumeyer, and Shin Young Park.
+**When Information is Not Good Enough: Individual Preconditions for Strategic Voting** \\
+with Benjamin Schlegel and Lukas Stoetzer. _Under review_.
+
+**Everyone Cares about Fairness: Why Morality Doesn't Fit in a Bag of Words** \\
+with Robert Klemmensen and Erik Gahner Larsen.  _Under review_.
+
+**Glass Half-Full or Half Empty: How Progress and Stagnation in Women's Representation Affect Political Interest and Efficacy** \\
+with Kathleen Dolan. _Under review_.
 
 **The Perils of Protest: Complaints About Police Misconduct Have Adverse Effects for Black Citizens** \\
-with Benjamin J. Newman.
-
-**Glass Half-Full or Half Empty: Does Optimism about Women’s Representation in Elected Office Affect Political Interest and Efficacy?** \\
-with Kathleen Dolan.
-
+with Benjamin J. Newman. _Under review_.
 
 # Selected Work in Progress
 
-**Everyone Cares about Fairness: Why Morality Doesn't Fit in a Bag of Words** \\
-with Robert Klemmensen and Erik Gahner Larsen. _In preparation for submission_.
+**No-Blame Republicans and No-Credit Democrats: Does Partisanship Trump Accountability in Handling COVID-19?** \\
+with Yanna Krupnikov and John B. Ryan. _In preparation for submission_.
 
 **Let's Talk Politics: A Naive Approach for Measuring Political Sophistication** \\
 _In preparation for submission_.
 
-**Asking the Right Questions: A Framework to Develop Gender-Balanced Knowledge Batteries** \\
-with Kathleen Dolan. _Data analysis_.
+**Intersectional Representation and Political Engagement: The Impact of Race and Gender on Women’s Political Attitudes and Engagement** \\
+with Kathleen Dolan and Amanda Heideman. _Preparing further data collection_.
 
 **Change My View: Do Moral Appeals Facilitate Compromise?** \\
 _Preparing further data collection_.

@@ -9,7 +9,7 @@ permalink: /research/
 # Publications
 
 **Reliable Sources? Correcting Misinformation in Polarized Media Environments** \\
-with Nicholas R. Davis, Taraleigh Davis, Amanda Heideman, Jason T. Neumeyer, and Shin Young Park. Forthcoming at _American Politics Research_.
+with Nicholas R. Davis, Taraleigh Davis, Amanda Heideman, Jason T. Neumeyer, and Shin Young Park. Forthcoming at _American Politics Research_. \\
 <button class="link" onclick="showAbstract('reliable')">(abstract</button>,
 <a href="../resources/articles/kraft2021reliable_accepted.pdf">pdf</a>,
 <a href="../resources/articles/kraft2021reliable_appendix.pdf">appendix</a>,
@@ -21,7 +21,7 @@ with Nicholas R. Davis, Taraleigh Davis, Amanda Heideman, Jason T. Neumeyer, and
 </div>
 
 **Hypothesis Testing with Error Correction Models** \\
-with Ellen M. Key and Matthew J. Lebo. Forthcoming at _Political Science Research & Methods_.
+with Ellen M. Key and Matthew J. Lebo. Forthcoming at _Political Science Research & Methods_. \\
 <button class="link" onclick="showAbstract('hypothesis')">(abstract</button>,
 <a href="../resources/articles/kraft2021hypothesis_accepted.pdf">pdf</a>,
 <a href="../resources/articles/kraft2021hypothesis_appendix.pdf">appendix</a>,
@@ -33,7 +33,7 @@ with Ellen M. Key and Matthew J. Lebo. Forthcoming at _Political Science Researc
 </div>
 
 **Social Media & the Changing Information Environment: Sentiment Differences in Read versus Re-Circulated News Content** \\
-with Yanna Krupnikov, Kerri Milita, John B. Ryan, and Stuart Soroka. 2020. _Public Opinion Quarterly_ 84(S1): 195&#8212;215.
+with Yanna Krupnikov, Kerri Milita, John B. Ryan, and Stuart Soroka. 2020. _Public Opinion Quarterly_ 84(S1): 195&#8212;215. \\
 <button class="link" onclick="showAbstract('social')">(abstract</button>,
 <a href="https://academic.oup.com/poq/article-abstract/doi/10.1093/poq/nfaa015/5862983" target="blank">link</a>)
 <div id="social" style="display:none">
@@ -43,7 +43,7 @@ with Yanna Krupnikov, Kerri Milita, John B. Ryan, and Stuart Soroka. 2020. _Publ
 </div>
 
 **Personality and Prosocial Behavior: A Multilevel Meta-Analysis** \\
-with Reuben Kline, Alexa Bankert, and Lindsey Levitan. 2019. _Political Science Research & Methods_ 7(1): 125&#8212;142.
+with Reuben Kline, Alexa Bankert, and Lindsey Levitan. 2019. _Political Science Research & Methods_ 7(1): 125&#8212;142. \\
 <button class="link" onclick="showAbstract('personality')">(abstract</button>,
 <a href="../resources/articles/kline2019personality_accepted.pdf">pdf</a>,
 <a href="../resources/articles/kline2019personality_appendix.pdf">appendix</a>,
@@ -55,7 +55,7 @@ with Reuben Kline, Alexa Bankert, and Lindsey Levitan. 2019. _Political Science 
 </div>
 
 **Measuring Morality in Political Attitude Expression** \\
-\2018. _Journal of Politics_ 8(3): 1028&#8212;1033
+\2018. _Journal of Politics_ 8(3): 1028&#8212;1033 \\
 <button class="link" onclick="showAbstract('morality')">(abstract</button>,
 <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/696862" target="blank">link</a>,
 <a href="../resources/articles/kraft2018measuring_accepted.pdf">pdf</a>,
@@ -67,7 +67,7 @@ with Reuben Kline, Alexa Bankert, and Lindsey Levitan. 2019. _Political Science 
 </div>
 
 **The General Error Correction Model in Practice** \\
-with Matthew Lebo. 2017. _Research and Politics_. 4(2): 2053168017713059.
+with Matthew Lebo. 2017. _Research and Politics_. 4(2): 2053168017713059. \\
 <button class="link" onclick="showAbstract('gecm')">(abstract</button>,
 <a href="../resources/articles/lebo2017general_accepted.pdf">pdf</a>,
 <a href="http://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/D1TW2Y">dataverse</a>)
@@ -78,7 +78,7 @@ with Matthew Lebo. 2017. _Research and Politics_. 4(2): 2053168017713059.
 </div>
 
 **Why People 'Don't Trust the Evidence': Motivated Reasoning and Scientific Beliefs** \\
-with Milton Lodge and Charles S. Taber. 2015. _Annals of the American Academy of Political and Social Science_ 658(1): 121&#8212;133.
+with Milton Lodge and Charles S. Taber. 2015. _Annals of the American Academy of Political and Social Science_ 658(1): 121&#8212;133. \\
 <button class="link" onclick="showAbstract('evidence')">(abstract</button>,
 <a href="http://journals.sagepub.com/doi/abs/10.1177/0002716214554758" target="blank">link</a>)
 <div id="evidence" style="display:none">
@@ -99,7 +99,8 @@ ed. Silke I. Keil / S. Isabell Thaidigsmann. Wiesbaden: Springer VS: 117&#8212;1
 
 **Correct Voting in Deutschland: Eine Analyse der Qualit&#228;t individueller Wahlentscheidungen bei der Bundestagswahl 2009** \\
 [Correct Voting in Germany: An Analysis of the Quality of Individual Voting Decisions in the 2009 German Federal Election.] 2012. \\
-_Working Paper of the Mannheim Center for European Social Research_: 148. <a href="http://www.mzes.uni-mannheim.de/publications/wp/wp-148.pdf">(pdf)</a>
+_Working Paper of the Mannheim Center for European Social Research_: 148. \\
+<a href="http://www.mzes.uni-mannheim.de/publications/wp/wp-148.pdf">(pdf)</a>
 
 # Manuscripts Under Review
 
@@ -142,7 +143,7 @@ R package version 1.3. ([CRAN](https://CRAN.R-project.org/package=ArfimaMLM), [G
 # Dissertation
 
 **Tell Me What You Think: Leveraging Open-Ended Measures in Political Psychology**\\
-_Committee_: Jennifer Jerit (chair), Stanley Feldman, Yanna Krupnikov, Michael Peress, Arthur Spirling (external member)
+_Committee_: Jennifer Jerit (chair), Stanley Feldman, Yanna Krupnikov, Michael Peress, Arthur Spirling (external member) \\
 <button class="link" onclick="showAbstract('diss')">(abstract</button>)
 <div id="diss" style="display:none">
 <blockquote>

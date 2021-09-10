@@ -4,6 +4,8 @@ title: Research
 permalink: /research/
 ---
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default"></script>
+
 # Publications
 
 **Reliable Sources? Correcting Misinformation in Polarized Media Environments** \\

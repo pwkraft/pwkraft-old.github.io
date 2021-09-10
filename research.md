@@ -7,15 +7,33 @@ permalink: /research/
 # Publications
 
 **Reliable Sources? Correcting Misinformation in Polarized Media Environments** \\
-with Nicholas R. Davis, Taraleigh Davis, Amanda Heideman, Jason T. Neumeyer, and Shin Young Park. Accepted at _American Politics Research_.
+with Nicholas R. Davis, Taraleigh Davis, Amanda Heideman, Jason T. Neumeyer, and Shin Young Park. Forthcoming at _American Politics Research_.
+<button class="link" onclick="showAbstract('social')">(abstract</button>,
+<a href="../resources/articles/kraft2021reliable_accepted.pdf">pdf</a>,
+<a href="../resources/articles/kraft2021reliable_appendix.pdf">appendix</a>,
+<a href="https://doi.org/10.1177/1532673X211041570" target="blank">link</a>)
+<div id="social" style="display:none">
+<blockquote>
+	Providing corrective information can reduce factual misperceptions among the public but it tends to have little effect on people's underlying attitudes. Our study examines how the impact of misinformation corrections is moderated by media choice. In our experiment, participants are asked to read a news article published by Fox News or MSNBC, each highlighting the positive economic impact of legal immigration in the United States. While the news content is held constant, our treatment manipulates whether participants are allowed to freely choose a media outlet or are randomly assigned. Our results demonstrate the importance of people's ability to choose: While factual misperceptions are easily corrected regardless of how people gained access to information, subsequent opinion change is conditional on people's prior willingness to seek out alternative sources. As such, encouraging people to broaden their media diet may be more effective to combat misinformation than disseminating fact-checks alone.
+</blockquote>
+</div>
 
 **Hypothesis Testing with Error Correction Models** \\
 with Ellen M. Key and Matthew J. Lebo. Forthcoming at _Political Science Research & Methods_.
+<button class="link" onclick="showAbstract('social')">(abstract</button>,
+<a href="../resources/articles/kraft2021hypothesis_accepted.pdf">pdf</a>,
+<a href="../resources/articles/kraft2021hypothesis_appendix.pdf">appendix</a>,
+<a href="https://doi.org/10.1017/psrm.2021.41" target="blank">link</a>)
+<div id="social" style="display:none">
+<blockquote>
+	Grant and Lebo (2016) and Keele et al. (2016) clarify the conditions under which the popular general error correction model (GECM) can be used and interpreted easily: In a bivariate GECM the data must be integrated in order to rely on the error correction coefficient, \( \alpha^{*}_{1} \), to test cointegration and measure the rate of error correction between a single exogenous <em>x</em> and a dependent variable, <em>y</em>. Here we demonstrate that even if the data are all integrated, the test on \( \alpha^{*}_{1} \) is misunderstood when there is more than a single independent variable. The null hypothesis is that there is no cointegration between <em>y</em> and any <em>x</em> but the correct alternative hypothesis is that <em>y</em> is cointegrated with at least one—but not necessarily more than one—of the <em>x</em>'s. A significant can occur when some \( I(1) \) regressors are not cointegrated and the equation is not balanced. Thus, the correct limiting distributions of the right-hand-side long-run coefficients may be unknown. We use simulations to demonstrate the problem and then discuss implications for applied examples.
+</blockquote>
+</div>
 
 **Social Media & the Changing Information Environment: Sentiment Differences in Read versus Re-Circulated News Content** \\
 with Yanna Krupnikov, Kerri Milita, John B. Ryan, and Stuart Soroka. 2020. _Public Opinion Quarterly_ 84(S1): 195&#8212;215.
-<button class="link" onclick="showAbstract('social')">(abstract</button>
-, <a href="https://academic.oup.com/poq/article-abstract/doi/10.1093/poq/nfaa015/5862983" target="blank">link</a>)
+<button class="link" onclick="showAbstract('social')">(abstract</button>,
+<a href="https://academic.oup.com/poq/article-abstract/doi/10.1093/poq/nfaa015/5862983" target="blank">link</a>)
 <div id="social" style="display:none">
 <blockquote>
 	There is reason to believe that an increasing proportion of the news consumers receive is not from news producers directly but is recirculated through social network sites and email by ordinary citizens. This may produce some fundamental changes in the information environment, but the data to examine this possibility have thus far been relatively limited. In the current paper, we examine the changing in-formation environment by leveraging a body of data on the frequency of (a) views, and recirculations through (b) Twitter, (c) Facebook, and (d) email of New York Times stories. We expect that the distribution of sentiment (positive-negative) in news stories will shift in a positive direction as we move from (a) to (d), based in large part on the literatures on self-presentation and imagined audiences. Our findings support this expectation and have important implications for the information contexts increasingly shaping public opinion.
@@ -24,10 +42,10 @@ with Yanna Krupnikov, Kerri Milita, John B. Ryan, and Stuart Soroka. 2020. _Publ
 
 **Personality and Prosocial Behavior: A Multilevel Meta-Analysis** \\
 with Reuben Kline, Alexa Bankert, and Lindsey Levitan. 2019. _Political Science Research & Methods_ 7(1): 125&#8212;142.
-<button class="link" onclick="showAbstract('personality')">(abstract</button>
-, <a href="../resources/articles/kline2017personality_accepted.pdf">pdf</a>
-, <a href="../resources/articles/kline2017personality_appendix.pdf">appendix</a>
-, <a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/personality-and-prosocial-behavior-a-multilevel-metaanalysis/2DC6F642FA396AF20E0108D1551CCD99#fndtn-information" target="blank">link</a>)
+<button class="link" onclick="showAbstract('personality')">(abstract</button>,
+<a href="../resources/articles/kline2019personality_accepted.pdf">pdf</a>,
+<a href="../resources/articles/kline2019personality_appendix.pdf">appendix</a>,
+<a href="https://www.cambridge.org/core/journals/political-science-research-and-methods/article/personality-and-prosocial-behavior-a-multilevel-metaanalysis/2DC6F642FA396AF20E0108D1551CCD99#fndtn-information" target="blank">link</a>)
 <div id="personality" style="display:none">
 <blockquote>
 	We investigate the effect of personality on prosocial behavior in a Bayesian multilevel meta-analysis (MLMA) of 15 published, interdisciplinary experimental studies. With data from the 15 studies constituting nearly 2500 individual observations, we find that the Big Five traits of Agreeableness and Openness are significantly and positively associated with prosocial behavior, while none of the other three traits are. These results are robust to a number of different model specifications and operationalizations of prosociality, and they greatly clarify the contradictory findings in the literature on the relationship between personality and prosocial behavior. Though previous research has indicated that incentivized experiments result in reduced prosocial behavior, we find no evidence that monetary incentivization of participants affects prosocial tendencies. By leveraging individual observations from multiple studies and explicitly modeling the multi-level structure of the data, MLMA permits the simultaneous estimation of study- and individual-level effects. The Bayesian approach allows us to estimate study-level effects in an unbiased and efficient manner, even with a relatively small number of studies. We conclude by discussing the limitations of our study and the advantages and disadvantages of the MLMA method.
@@ -36,10 +54,10 @@ with Reuben Kline, Alexa Bankert, and Lindsey Levitan. 2019. _Political Science 
 
 **Measuring Morality in Political Attitude Expression** \\
 \2018. _Journal of Politics_ 8(3): 1028&#8212;1033
-<button class="link" onclick="showAbstract('morality')">(abstract</button>
-, <a href="https://www.journals.uchicago.edu/doi/abs/10.1086/696862" target="blank">link</a>
-, <a href="../resources/articles/kraft2018measuring_accepted.pdf">pdf</a>
-, <a href="../resources/articles/kraft2018measuring_appendix.pdf">appendix</a>)
+<button class="link" onclick="showAbstract('morality')">(abstract</button>,
+<a href="https://www.journals.uchicago.edu/doi/abs/10.1086/696862" target="blank">link</a>,
+<a href="../resources/articles/kraft2018measuring_accepted.pdf">pdf</a>,
+<a href="../resources/articles/kraft2018measuring_appendix.pdf">appendix</a>)
 <div id="morality" style="display:none">
 <blockquote>
 	This study explores whether and how individuals evoke moral considerations when discussing their political beliefs. Analyzing open-ended responses in the 2012 American National Election Study (ANES) using a previously validated dictionary, I find systematic ideological differences in moral reasoning - even when respondents are not explicitly asked about morality. The study proceeds to show that the reliance on moral considerations in attitude expression is amplified by the moral content of individual media environments.
@@ -48,9 +66,9 @@ with Reuben Kline, Alexa Bankert, and Lindsey Levitan. 2019. _Political Science 
 
 **The General Error Correction Model in Practice** \\
 with Matthew Lebo. 2017. _Research and Politics_. 4(2): 2053168017713059.
-<button class="link" onclick="showAbstract('gecm')">(abstract</button>
-, <a href="../resources/articles/lebo2017general_accepted.pdf">pdf</a>
-, <a href="http://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/D1TW2Y">dataverse</a>)
+<button class="link" onclick="showAbstract('gecm')">(abstract</button>,
+<a href="../resources/articles/lebo2017general_accepted.pdf">pdf</a>,
+<a href="http://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/D1TW2Y">dataverse</a>)
 <div id="gecm" style="display:none">
 <blockquote>
 	Enns et al. respond to recent work by Grant and Lebo and Lebo and Grant that raises a number of concerns with political scientists’ use of the general error correction model (GECM). While agreeing with the particular rules one should apply when using unit root data in the GECM, Enns et al. still advocate procedures that will lead researchers astray. Most especially, they fail to recognize the difficulty in interpreting the GECM's "error correction coefficient." Without being certain of the univariate properties of one's data it is extremely difficult (or perhaps impossible) to know whether or not cointegration exists and error correction is occurring. We demonstrate the crucial differences for the GECM between having evidence of a unit root (from Dickey-Fuller tests) versus actually having a unit root. Looking at simulations and two applied examples we show how overblown findings of error correction await the uncareful researcher.
@@ -59,8 +77,8 @@ with Matthew Lebo. 2017. _Research and Politics_. 4(2): 2053168017713059.
 
 **Why People 'Don't Trust the Evidence': Motivated Reasoning and Scientific Beliefs** \\
 with Milton Lodge and Charles S. Taber. 2015. _Annals of the American Academy of Political and Social Science_ 658(1): 121&#8212;133.
-<button class="link" onclick="showAbstract('evidence')">(abstract</button>
-, <a href="http://journals.sagepub.com/doi/abs/10.1177/0002716214554758" target="blank">link</a>)
+<button class="link" onclick="showAbstract('evidence')">(abstract</button>,
+<a href="http://journals.sagepub.com/doi/abs/10.1177/0002716214554758" target="blank">link</a>)
 <div id="evidence" style="display:none">
 <blockquote>
 	In this commentary, we embed the volume's contributions on public beliefs about science in a broader theoretical discussion of motivated political reasoning. The studies presented in the preceding section of the volume consistently find evidence for hyperskepticism toward scientific evidence among ideologues, no matter the domain or context &#8212; and this skepticism seems to be stronger among conservatives than liberals. here, we show that these patterns can be understood as part of a general tendency among individuals to defend their prior attitudes and actively challenge attitudinally incongruent arguments, a tendency that appears to be evident among liberals and conservatives alike. We integrate the empirical results reported in this volume into a broader theoretical discussion of the John Q. Public model of information processing and motivated reasoning, which posits that both affective and cognitive reactions to events are triggered unconsciously. We find that the work in this volume is largely consistent with our theories of affect-driven motivated reasoning and biased attitude formation.
@@ -90,7 +108,7 @@ with Kathleen Dolan.  Invitation to revise and resubmit at _Political Research Q
 with Benjamin Schlegel and Lukas Stoetzer. _Under review_.
 
 **Everyone Cares about Fairness: Why Morality Doesn't Fit in a Bag of Words** \\
-with Robert Klemmensen and Erik Gahner Larsen.  _Under review_.
+with Robert Klemmensen.  _Under review_.
 
 **Glass Half-Full or Half Empty: How Progress and Stagnation in Women's Representation Affect Political Interest and Efficacy** \\
 with Kathleen Dolan. _Under review_.

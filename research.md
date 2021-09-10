@@ -8,11 +8,11 @@ permalink: /research/
 
 **Reliable Sources? Correcting Misinformation in Polarized Media Environments** \\
 with Nicholas R. Davis, Taraleigh Davis, Amanda Heideman, Jason T. Neumeyer, and Shin Young Park. Forthcoming at _American Politics Research_.
-<button class="link" onclick="showAbstract('social')">(abstract</button>,
+<button class="link" onclick="showAbstract('reliable')">(abstract</button>,
 <a href="../resources/articles/kraft2021reliable_accepted.pdf">pdf</a>,
 <a href="../resources/articles/kraft2021reliable_appendix.pdf">appendix</a>,
 <a href="https://doi.org/10.1177/1532673X211041570" target="blank">link</a>)
-<div id="social" style="display:none">
+<div id="reliable" style="display:none">
 <blockquote>
 	Providing corrective information can reduce factual misperceptions among the public but it tends to have little effect on people's underlying attitudes. Our study examines how the impact of misinformation corrections is moderated by media choice. In our experiment, participants are asked to read a news article published by Fox News or MSNBC, each highlighting the positive economic impact of legal immigration in the United States. While the news content is held constant, our treatment manipulates whether participants are allowed to freely choose a media outlet or are randomly assigned. Our results demonstrate the importance of people's ability to choose: While factual misperceptions are easily corrected regardless of how people gained access to information, subsequent opinion change is conditional on people's prior willingness to seek out alternative sources. As such, encouraging people to broaden their media diet may be more effective to combat misinformation than disseminating fact-checks alone.
 </blockquote>
@@ -20,11 +20,11 @@ with Nicholas R. Davis, Taraleigh Davis, Amanda Heideman, Jason T. Neumeyer, and
 
 **Hypothesis Testing with Error Correction Models** \\
 with Ellen M. Key and Matthew J. Lebo. Forthcoming at _Political Science Research & Methods_.
-<button class="link" onclick="showAbstract('social')">(abstract</button>,
+<button class="link" onclick="showAbstract('hypothesis')">(abstract</button>,
 <a href="../resources/articles/kraft2021hypothesis_accepted.pdf">pdf</a>,
 <a href="../resources/articles/kraft2021hypothesis_appendix.pdf">appendix</a>,
 <a href="https://doi.org/10.1017/psrm.2021.41" target="blank">link</a>)
-<div id="social" style="display:none">
+<div id="hypothesis" style="display:none">
 <blockquote>
 	Grant and Lebo (2016) and Keele et al. (2016) clarify the conditions under which the popular general error correction model (GECM) can be used and interpreted easily: In a bivariate GECM the data must be integrated in order to rely on the error correction coefficient, \( \alpha^{*}_{1} \), to test cointegration and measure the rate of error correction between a single exogenous <em>x</em> and a dependent variable, <em>y</em>. Here we demonstrate that even if the data are all integrated, the test on \( \alpha^{*}_{1} \) is misunderstood when there is more than a single independent variable. The null hypothesis is that there is no cointegration between <em>y</em> and any <em>x</em> but the correct alternative hypothesis is that <em>y</em> is cointegrated with at least one—but not necessarily more than one—of the <em>x</em>'s. A significant can occur when some \( I(1) \) regressors are not cointegrated and the equation is not balanced. Thus, the correct limiting distributions of the right-hand-side long-run coefficients may be unknown. We use simulations to demonstrate the problem and then discuss implications for applied examples.
 </blockquote>

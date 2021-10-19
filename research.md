@@ -104,17 +104,17 @@ _Working Paper of the Mannheim Center for European Social Research_: 148. \\
 
 # Manuscripts Under Review
 
+**Everyone Cares about Fairness: Why Morality Doesn't Fit in a Bag of Words** \\
+with Robert Klemmensen. Invitation to revise and resubmit at _British Journal of Political Science_.
+
 **Asking the Right Questions: A Framework to Develop Gender-Balanced Knowledge Batteries** \\
 with Kathleen Dolan.  Invitation to revise and resubmit at _Political Research Quarterly_.
 
+**Glass Half-Full or Half Empty: How Perceived Progress in Women’s Representation Affects Political Interest and Efficacy** \\
+with Kathleen Dolan. Invitation to revise and resubmit at _Journal of Women, Politics \& Policy_.
+
 **When Information is Not Good Enough: Individual Preconditions for Strategic Voting** \\
 with Benjamin Schlegel and Lukas Stoetzer. _Under review_.
-
-**Everyone Cares about Fairness: Why Morality Doesn't Fit in a Bag of Words** \\
-with Robert Klemmensen.  _Under review_.
-
-**Glass Half-Full or Half Empty: How Progress and Stagnation in Women's Representation Affect Political Interest and Efficacy** \\
-with Kathleen Dolan. _Under review_.
 
 **The Perils of Protest: Complaints About Police Misconduct Have Adverse Effects for Black Citizens** \\
 with Benjamin J. Newman. _Under review_.
